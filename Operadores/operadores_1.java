@@ -9,7 +9,7 @@ public class operadores_1 {
 
 // Operador "+" para fazer a concatenação de STRINGS
 
-/* Pederia fazer desta forma também:
+/* Poderia fazer desta forma também:
 
 String firstName = "John";
 String lastName = "Doe";
