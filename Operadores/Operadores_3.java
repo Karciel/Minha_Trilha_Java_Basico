@@ -8,7 +8,9 @@ public class Operadores_3 {
 
 
 
+/*Aqui fizemos a multiplicação de um número negativo.
 
+É bom lembrar: Multiplicação de números negativos dará positivo */
 
 
 
