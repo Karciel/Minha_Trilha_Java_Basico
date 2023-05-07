@@ -11,20 +11,13 @@ public class Operadores_4{
     System.out.println(numero); 
 
 /*  
+Existem cinco operadores unários em Java:
 
-=: atribui um valor a uma variável
-+=: adiciona um valor a uma variável
--=: subtrai um valor de uma variável
-*=: multiplica uma variável por um valor
-/=: divide uma variável por um valor
-%=: atribui o resto da divisão de uma variável por um valor
-++: aumenta o valor de uma variável em 1
---: diminui o valor de uma variável em 1
-
-Esses operadores são usados para modificar o valor de uma variável de maneira mais concisa */
-
-
-
++: usado para representar valores positivos
+-: usado para representar valores negativos
+++: usado para incrementar o valor de uma variável em 1
+--: usado para decrementar o valor de uma variável em 1
+!: usado para inverter o valor de uma variável booleanos */
 
             
         }
