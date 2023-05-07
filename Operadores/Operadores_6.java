@@ -15,6 +15,9 @@ public class Operadores_6 {
 
         System.out.println("numeroUm é igual ou menor que numeroDois? - " + (numeroUm <= numeroDois));
 
+//Para números, podemos usar os operadores relacionais, mas para objetos (como strings), você deve usar .equals()
+
+
 
 // Todos os operadores RELACIONAIS: 
 
