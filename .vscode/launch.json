@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_2",
+            "request": "launch",
+            "mainClass": "Operadores_2",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_3",
+            "request": "launch",
+            "mainClass": "Operadores_3",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_4",
+            "request": "launch",
+            "mainClass": "Operadores_4",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_5",
+            "request": "launch",
+            "mainClass": "Operadores_5",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_6",
+            "request": "launch",
+            "mainClass": "Operadores_6",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_7",
+            "request": "launch",
+            "mainClass": "Operadores_7",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "operadores_1",
+            "request": "launch",
+            "mainClass": "operadores_1",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        }
+    ]
+}
