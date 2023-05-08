@@ -4,7 +4,7 @@ public class Operadores_7 {
         boolean condicao2 = true;
 
 
-        if (condicao1 != condicao2) {
+        if (condicao1 ^ condicao2) {
           System.out.println("verdadeira");
         
 
@@ -22,7 +22,7 @@ public class Operadores_7 {
 -------------------------------------------------------------------------------------
 || : "OU lógico". Retorna verdadeiro se pelo menos um dos operandos for verdadeiro.
 -------------------------------------------------------------------------------------
-!= : "NÃO"" lógico. Inverte o valor lógico do operando.
+! : "NÃO" lógico. Inverte o valor lógico do operando.
 -------------------------------------------------------------------------------------
 ^ : "OU" exclusivo. Retorna verdadeiro se exatamente um dos operandos for verdadeiro.
 -------------------------------------------------------------------------------------
