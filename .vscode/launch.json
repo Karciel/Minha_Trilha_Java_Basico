@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "usuario_Tv",
+            "request": "launch",
+            "mainClass": "usuario_Tv",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "InformacoesCarro",
+            "request": "launch",
+            "mainClass": "InformacoesCarro",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Metodos_1",
+            "request": "launch",
+            "mainClass": "Metodos_1",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
+            "name": "Metodos_1",
+            "request": "launch",
+            "mainClass": "Metodos.Metodos_1",
+            "projectName": "Minha_Trilha_Java_Basico_78750ce"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
